@@ -9,6 +9,7 @@ A responsive study planner and study-copilot demo built as a lightweight static 
 - Goal-based editable starter plans
 - Focus timer with start, pause, reset, and a task-duration shortcut
 - Progress analytics by task type and across all tasks
+- Recall Lab flashcards with reveal-before-rating, due queues, and spaced review intervals (1, 3, and 7 days)
 - Export tasks to a JSON backup and restore them from a backup file
 - Browser-local persistence with no API key or installation required
 - Mobile bottom navigation
